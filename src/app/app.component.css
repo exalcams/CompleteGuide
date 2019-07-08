@@ -1,0 +1,4 @@
+::ng-deep .btn {
+  margin-right: 3px;
+  min-width: 100px
+}
